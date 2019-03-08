@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/Main.unity
+    guid: ffae91d087686174eafc1c379f6edf37
+  - enabled: 1
+    path: Assets/scenes/House Flavors.unity
+    guid: d066d9cb023d65d4e8f4e82cc369370e
+  - enabled: 1
+    path: Assets/scenes/Premium Juice Brands.unity
+    guid: 2950748ba1508b844ba0a03730da1578
+  - enabled: 1
+    path: Assets/scenes/Nicotine Salts.unity
+    guid: 4cc5c853b71613a45aaf7bcf1ee4c359
+  - enabled: 1
+    path: Assets/scenes/Air Factory.unity
+    guid: c723cf69d58c4ae4caf1263ff7528df4
+  - enabled: 1
+    path: Assets/scenes/Bad Drip.unity
+    guid: 3559e06fd0f9c56438a3e0b2e0d5a53d
+  - enabled: 1
+    path: Assets/scenes/Beard Vape Co.unity
+    guid: 5fc4132edea41bb438d829847d760664
+  - enabled: 1
+    path: Assets/scenes/Burst.unity
+    guid: a0a8a0d686f77bc4fa4c3fc5f5296415
+  - enabled: 1
+    path: Assets/scenes/Cloudmouth Vapors.unity
+    guid: 85d2bfad153f79a44a573506de80fd8c
+  - enabled: 1
+    path: Assets/scenes/Crisp.unity
+    guid: 5e73721ef7e90be49a456884c2cddd85
+  - enabled: 1
+    path: Assets/scenes/Hemlock.unity
+    guid: c6c59e0986e85b14bbc146bf5aebb116
+  - enabled: 1
+    path: Assets/scenes/Humble.unity
+    guid: 4ff2fd1dec64c904aabde0dded5567e6
+  - enabled: 1
+    path: Assets/scenes/Jam Monster.unity
+    guid: 945dd09b492471848b0a19a522eb707c
+  - enabled: 1
+    path: Assets/scenes/Keep it 100.unity
+    guid: ec0311fc3d0d8ca49990cc7ecafdbbb1
+  - enabled: 1
+    path: Assets/scenes/Kilo Sour Series.unity
+    guid: a988d2280462e164e8570c6e94758c35
+  - enabled: 1
+    path: Assets/scenes/Naked 100.unity
+    guid: d43e6067dab4b5244b54d60f7907a81f
+  - enabled: 1
+    path: Assets/scenes/No Hype.unity
+    guid: 94c15a92304ebcf468fe7ee99ff3deaf
+  - enabled: 1
+    path: Assets/scenes/Propaganda.unity
+    guid: fe19c5a9a74836a4494beb90b306d2a1
+  - enabled: 1
+    path: Assets/scenes/Space Jam.unity
+    guid: edce938db10c1274f902204798be63d2
+  - enabled: 1
+    path: Assets/scenes/Squeezee.unity
+    guid: 9f15f793cbf6ce340a616f5da0c2a6dd
+  - enabled: 1
+    path: Assets/scenes/Vapetasia.unity
+    guid: 33a2bb5507e01e444a762ecf7671d0f6
