@@ -36,8 +36,8 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/scenes/Jam Monster.unity
-  isLoaded: 1
-  isActive: 1
+  isLoaded: 0
+  isActive: 0
 - path: Assets/scenes/Keep it 100.unity
   isLoaded: 0
   isActive: 0
@@ -57,8 +57,8 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/scenes/Squeezee.unity
-  isLoaded: 0
-  isActive: 0
+  isLoaded: 1
+  isActive: 1
 - path: Assets/scenes/Vapetasia.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
