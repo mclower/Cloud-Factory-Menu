@@ -188,7 +188,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 24804557}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1810280245}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &24804557
@@ -372,6 +383,156 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 248448022}
+--- !u!1001 &428288506
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1627995792}
+    m_Modifications:
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.000061035156
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: -60.299927
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376232047244336, guid: 75093b16ba4df144fbdb091687953533, type: 2}
+      propertyPath: m_Name
+      value: Milk of the Poppy Panel
+      objectReference: {fileID: 0}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1018305738}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 114939669982456242, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Text
+      value: Vapetasia Milk of the Poppy is a mixture of fresh strawberry, vanilla
+        cream, and a light hint of dragonfruit.
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.999936
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.999936
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.999936
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
+  m_IsPrefabParent: 0
+--- !u!224 &428288507 stripped
+RectTransform:
+  m_PrefabParentObject: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+    type: 2}
+  m_PrefabInternal: {fileID: 428288506}
+--- !u!1 &428288508 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1376232047244336, guid: 75093b16ba4df144fbdb091687953533,
+    type: 2}
+  m_PrefabInternal: {fileID: 428288506}
 --- !u!1 &493892458
 GameObject:
   m_ObjectHideFlags: 0
@@ -453,6 +614,156 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &512689156
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1627995792}
+    m_Modifications:
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.000061035156
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: -60.299927
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376232047244336, guid: 75093b16ba4df144fbdb091687953533, type: 2}
+      propertyPath: m_Name
+      value: Killer Kustard Lemon Panel
+      objectReference: {fileID: 0}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1018305738}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 114939669982456242, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Text
+      value: Vapetasia Killer Kustard Lemon is a sweet and creamy vanilla custard
+        mixed with tart lemons.
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.999936
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.999936
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.999936
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
+  m_IsPrefabParent: 0
+--- !u!224 &512689157 stripped
+RectTransform:
+  m_PrefabParentObject: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+    type: 2}
+  m_PrefabInternal: {fileID: 512689156}
+--- !u!1 &512689158 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1376232047244336, guid: 75093b16ba4df144fbdb091687953533,
+    type: 2}
+  m_PrefabInternal: {fileID: 512689156}
 --- !u!1 &547884561
 GameObject:
   m_ObjectHideFlags: 0
@@ -718,7 +1029,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 582536014}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 428288508}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &582536014
@@ -1004,6 +1326,290 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1062110955}
+--- !u!1001 &1078898641
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1627995792}
+    m_Modifications:
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.000061035156
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: -60.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376232047244336, guid: 75093b16ba4df144fbdb091687953533, type: 2}
+      propertyPath: m_Name
+      value: Killer Kustard Panel
+      objectReference: {fileID: 0}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1018305738}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 114939669982456242, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Text
+      value: Vapetasia Killer Kustard is a sweet and creamy vanilla custard.
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
+  m_IsPrefabParent: 0
+--- !u!224 &1078898642 stripped
+RectTransform:
+  m_PrefabParentObject: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+    type: 2}
+  m_PrefabInternal: {fileID: 1078898641}
+--- !u!1 &1078898643 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1376232047244336, guid: 75093b16ba4df144fbdb091687953533,
+    type: 2}
+  m_PrefabInternal: {fileID: 1078898641}
+--- !u!1001 &1241484177
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1627995792}
+    m_Modifications:
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.000061035156
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: -60.299927
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376232047244336, guid: 75093b16ba4df144fbdb091687953533, type: 2}
+      propertyPath: m_Name
+      value: Killer Kustarad Strawberry Panel
+      objectReference: {fileID: 0}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1018305738}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 114939669982456242, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Text
+      value: Vapetasia Killer Kustard Strawberry is a sweet and creamy vanilla custard
+        mixed with fresh strawberries.
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.999936
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.999936
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.999936
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
+  m_IsPrefabParent: 0
+--- !u!224 &1241484178 stripped
+RectTransform:
+  m_PrefabParentObject: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+    type: 2}
+  m_PrefabInternal: {fileID: 1241484177}
+--- !u!1 &1241484179 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1376232047244336, guid: 75093b16ba4df144fbdb091687953533,
+    type: 2}
+  m_PrefabInternal: {fileID: 1241484177}
 --- !u!1 &1326084001
 GameObject:
   m_ObjectHideFlags: 0
@@ -1079,7 +1685,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1326084004}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1078898643}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1326084004
@@ -1355,6 +1972,11 @@ RectTransform:
   - {fileID: 582536012}
   - {fileID: 24804555}
   - {fileID: 582423891}
+  - {fileID: 1078898642}
+  - {fileID: 512689157}
+  - {fileID: 1241484178}
+  - {fileID: 428288507}
+  - {fileID: 1810280244}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1438,7 +2060,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1750818570}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 512689158}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1750818570
@@ -1474,6 +2107,156 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1750818567}
+--- !u!1001 &1810280243
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1627995792}
+    m_Modifications:
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.000061035156
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_SizeDelta.x
+      value: -80
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: -60.299927
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376232047244336, guid: 75093b16ba4df144fbdb091687953533, type: 2}
+      propertyPath: m_Name
+      value: Rainbow Road Panel
+      objectReference: {fileID: 0}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1018305738}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 114939669982456242, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Text
+      value: Vapetasia Rainbow Road is a fruity cereal flavor that is extra creamy
+        and sweet.
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.999936
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.999936
+      objectReference: {fileID: 0}
+    - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.999936
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
+  m_IsPrefabParent: 0
+--- !u!224 &1810280244 stripped
+RectTransform:
+  m_PrefabParentObject: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
+    type: 2}
+  m_PrefabInternal: {fileID: 1810280243}
+--- !u!1 &1810280245 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1376232047244336, guid: 75093b16ba4df144fbdb091687953533,
+    type: 2}
+  m_PrefabInternal: {fileID: 1810280243}
 --- !u!1 &1828729316
 GameObject:
   m_ObjectHideFlags: 0
@@ -1549,7 +2332,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1828729319}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1241484179}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1828729319

@@ -68,3 +68,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scenes/Vapetasia.unity
     guid: 33a2bb5507e01e444a762ecf7671d0f6
+  - enabled: 1
+    path: Assets/scenes/Mr Salt-E.unity
+    guid: ccf87f29c2e7ebe4b8fd4d8d9aed93e6
+  - enabled: 1
+    path: Assets/scenes/Naked 100 Salts.unity
+    guid: e7848d6edcaef9e4e858416050316cce
+  - enabled: 1
+    path: Assets/scenes/Pachamama Salts.unity
+    guid: be23bd5f436dbd947b86e3c6d066a5d0
+  - enabled: 1
+    path: Assets/scenes/Propaganda Salts.unity
+    guid: 0723bc164eb65f644a5821f7f242d0d7
+  - enabled: 1
+    path: Assets/scenes/Solace Salts.unity
+    guid: 263a382ab66fb8a4abebf3f521317824
+  - enabled: 1
+    path: Assets/scenes/Yogi Salts.unity
+    guid: 3c4c95277acef324287cbf39c31f6f87
