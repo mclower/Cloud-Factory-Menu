@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 781
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -107,10 +107,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 707, y: 492}
-  m_MaxSize: {x: 18002, y: 14042}
+  m_MinSize: {x: 713, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 2615
+  controlID: 9
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 2616
+  controlID: 10
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -206,8 +206,8 @@ MonoBehaviour:
     y: 0
     width: 209
     height: 731
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -231,8 +231,8 @@ MonoBehaviour:
     y: 0
     width: 277
     height: 731
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -343,14 +343,14 @@ MonoBehaviour:
     height: 439
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 2532.3418407
+  lastFramingTime: 4767.5279167
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 960, y: 540, z: 0}
+    m_Target: {x: -2.4146693, y: 0.47150388, z: 0.18359375}
     speed: 2
-    m_Value: {x: 960, y: 540, z: 0}
+    m_Value: {x: -2.4146693, y: 0.47150388, z: 0.18359375}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -378,9 +378,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 1382.1365
+    m_Target: 15.385577
     speed: 2
-    m_Value: 1382.1365
+    m_Value: 15.385577
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -458,19 +458,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/scripts
+    - Assets/prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/scripts
+  - Assets/prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\mattc\Documents\GitRepos\CloudFactoryMenu
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 599}
-    m_SelectedIDs: 18280000
-    m_LastClickedID: 10264
-    m_ExpandedIDs: 0000000096270000422a0000a82a000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 603}
+    m_SelectedIDs: 742a0000
+    m_LastClickedID: 10868
+    m_ExpandedIDs: 000000009c2700004c2a0000b22a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -486,7 +486,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 8}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -498,7 +498,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000096270000422a0000a82a000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000009c2700004c2a0000b22a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -609,9 +609,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 96fbffff
-    m_LastClickedID: -1130
-    m_ExpandedIDs: f4eefeffceeffeffe0f0feffe4f0feff42f1feffbef1feff94f2feff2ef3feffc8f3feff44f4feff78f4feffd6f4feff52f5feff82f6feffe0f6feffb6f7feff32f8feff62f9feff66f9feffc4f9feff40fafeffdafafeff92fbfeff0efcfeff1efcfeff22fcfeff26fcfeff2efcfeff32fcfeffc201ffff9a02ffffac03ffffb003ffff0e04ffff8a04ffff6005fffffa05ffff9406ffff1007ffff4407ffffa207ffff1e08ffff4e09ffffac09ffff820afffffe0affff2e0cffff320cffff900cffff0c0dffffa60dffff5e0effffda0effffea0effffee0efffff20efffffa0efffffe0effff96fbffff00000000102c00006e930000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 9a76f3ff7277f3ff2479f3ff3e79f3ffb279f3ff447af3ff307bf3ffe07bf3ff907cf3ff227df3ff6c7df3ffe07df3ff627ef3ffa87ff3ff1c80f3ff0881f3ff9a81f3ffd082f3ffea82f3ff5e83f3fff083f3ffa084f3ff6e85f3ff0086f3ff2486f3ff3886f3ff4c86f3ff6486f3ff6886f3ff4a8bf3ff208cf3ffd68df3fff08df3ff648ef3fff68ef3ffe28ff3ff9290f3ff4291f3ffd491f3ff1e92f3ff9292f3ff1493f3ff5a94f3ffce94f3ffba95f3ff4c96f3ff8297f3ff9c97f3ff1098f3ffa298f3ff5299f3ff209af3ffb29af3ffd69af3ffea9af3fffe9af3ff169bf3ff1a9bf3ffdaecfeff18eefeffbaeffeff5cfbffff5efbffff60fbffff62fbffff64fbffff66fbffff68fbffff6afbffff6cfbffff6efbffff70fbffff72fbffff74fbffff76fbffff78fbffff7afbffff7cfbffff7efbffff80fbffff00000000ea2b0000602c0000762e0000c22f0000583000002c31000002320000883200003433000056330000bc330000b6340000403500002e360000023700005e380000c63800008a3900001e3a0000803a0000863b0000e63b0000983c0000e43d00006a3e0000ca3e00001c3f00006c4400005a570000c0580000f25900008a5b0000a6620000ee620000a86500009a6a0000ea6b0000226d00004a750000e67500003e870000968a0000e68b00001e8e00002e9000003a9200000694000042960000109800008e9a0000649d0000769f0000b4a10000a8a20000fca40000bea90000a6ac0000ecae0000e0b200006cb4000030b50000d8b5000024b600007eb9000088bb0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -630,7 +630,25 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 9}
     m_SearchString: 
   m_ExpandedScenes:
-  - Main
+  - House Flavors
+  - Premium Juice Brands
+  - Nicotine Salts
+  - Air Factory
+  - Bad Drip
+  - Beard Vape Co
+  - Burst
+  - Cloudmouth Vapors
+  - Crisp
+  - Hemlock
+  - Humble
+  - Jam Monster
+  - Keep it 100
+  - Kilo Sour Series
+  - Naked 100
+  - No Hype
+  - Propaganda
+  - Space Jam
+  - Squeezee
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
