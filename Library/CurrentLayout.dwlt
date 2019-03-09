@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 521}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 781
-  m_MinSize: {x: 950, y: 521}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -107,10 +107,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 707, y: 471}
-  m_MaxSize: {x: 18002, y: 14021}
+  m_MinSize: {x: 707, y: 492}
+  m_MaxSize: {x: 18002, y: 14042}
   vertical: 0
-  controlID: 9
+  controlID: 2615
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -131,10 +131,10 @@ MonoBehaviour:
     y: 0
     width: 1050
     height: 731
-  m_MinSize: {x: 232, y: 471}
-  m_MaxSize: {x: 10002, y: 14021}
+  m_MinSize: {x: 232, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 10
+  controlID: 2616
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -153,8 +153,8 @@ MonoBehaviour:
     y: 0
     width: 1050
     height: 460
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -268,15 +268,15 @@ MonoBehaviour:
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 06000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 07000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_TargetDisplay: 0
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -512
-    m_HBaseRangeMax: 512
-    m_VBaseRangeMin: -384
-    m_VBaseRangeMax: 384
+    m_HBaseRangeMin: -960
+    m_HBaseRangeMax: 960
+    m_VBaseRangeMin: -540
+    m_VBaseRangeMax: 540
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -295,7 +295,7 @@ MonoBehaviour:
       y: 17
       width: 1048
       height: 422
-    m_Scale: {x: 0.5494792, y: 0.5494792}
+    m_Scale: {x: 0.39074075, y: 0.39074075}
     m_Translation: {x: 524, y: 211}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -303,12 +303,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -953.6303
-      y: -384
-      width: 1907.2606
-      height: 768
+      x: -1341.0426
+      y: -540
+      width: 2682.0852
+      height: 1080
     m_MinimalGUI: 1
-  m_defaultScale: 0.5494792
+  m_defaultScale: 0.39074075
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
   m_LastWindowPixelSize: {x: 1048, y: 439}
@@ -343,14 +343,14 @@ MonoBehaviour:
     height: 439
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 6080.2194719
+  lastFramingTime: 2532.3418407
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 90}
+    m_Target: {x: 960, y: 540, z: 0}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 90}
+    m_Value: {x: 960, y: 540, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -378,9 +378,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 711.6045
+    m_Target: 1382.1365
     speed: 2
-    m_Value: 711.6045
+    m_Value: 1382.1365
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -458,18 +458,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/images
+    - Assets/scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/images
+  - Assets/scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\mattc\Documents\GitRepos\CloudFactoryMenu
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 95}
-    m_SelectedIDs: 422a0000
-    m_LastClickedID: 10818
+    scrollPos: {x: 0, y: 599}
+    m_SelectedIDs: 18280000
+    m_LastClickedID: 10264
     m_ExpandedIDs: 0000000096270000422a0000a82a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -498,7 +498,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000096270000422a0000a82a0000
+    m_ExpandedIDs: 0000000096270000422a0000a82a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -525,7 +525,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000122b00008a49000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -550,7 +550,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 180}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 110
 --- !u!114 &15
@@ -609,9 +609,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 52e3ffff5ce4ffff72e5ffff76e5ffffd4e5ffff50e6ffff26e7ffffc0e7ffff5ae8ffffd6e8ffff0ae9ffff68e9ffffe4e9ffff14ebffff72ebffff48ecffffc4ecfffff4edfffff8edffff56eeffffd2eeffff6cefffff24f0ffffa0f0ffffb0f0ffffb4f0ffffb8f0ffffbef0ffffc2f0ffff62fbffff64fbffff66fbffff6afbffff6cfbffff76fbffff78fbffff7afbffff7cfbffff7efbffff82fbffff84fbffff86fbffff88fbffff8cfbffff90fbffff92fbffff94fbffff96fbffff00000000
+    m_SelectedIDs: 96fbffff
+    m_LastClickedID: -1130
+    m_ExpandedIDs: f4eefeffceeffeffe0f0feffe4f0feff42f1feffbef1feff94f2feff2ef3feffc8f3feff44f4feff78f4feffd6f4feff52f5feff82f6feffe0f6feffb6f7feff32f8feff62f9feff66f9feffc4f9feff40fafeffdafafeff92fbfeff0efcfeff1efcfeff22fcfeff26fcfeff2efcfeff32fcfeffc201ffff9a02ffffac03ffffb003ffff0e04ffff8a04ffff6005fffffa05ffff9406ffff1007ffff4407ffffa207ffff1e08ffff4e09ffffac09ffff820afffffe0affff2e0cffff320cffff900cffff0c0dffffa60dffff5e0effffda0effffea0effffee0efffff20efffffa0efffffe0effff96fbffff00000000102c00006e930000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -631,24 +631,6 @@ MonoBehaviour:
     m_SearchString: 
   m_ExpandedScenes:
   - Main
-  - House Flavors
-  - Premium Juice Brands
-  - Nicotine Salts
-  - Bad Drip
-  - Burst
-  - Cloudmouth Vapors
-  - Crisp
-  - Hemlock
-  - Jam Monster
-  - Keep it 100
-  - Kilo Sour Series
-  - Naked 100
-  - No Hype
-  - Mr Salt-E
-  - Naked 100 Salts
-  - Propaganda Salts
-  - Solace Salts
-  - Yogi Salts
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
