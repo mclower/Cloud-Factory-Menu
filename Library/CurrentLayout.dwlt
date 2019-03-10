@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 521}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 521}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -107,10 +107,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 709, y: 471}
-  m_MaxSize: {x: 18004, y: 14021}
+  m_MinSize: {x: 713, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 16933
+  controlID: 9
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -131,10 +131,10 @@ MonoBehaviour:
     y: 0
     width: 1312
     height: 947
-  m_MinSize: {x: 232, y: 471}
-  m_MaxSize: {x: 10002, y: 14021}
+  m_MinSize: {x: 232, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 17001
+  controlID: 10
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -153,8 +153,8 @@ MonoBehaviour:
     y: 0
     width: 1312
     height: 596
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -206,8 +206,8 @@ MonoBehaviour:
     y: 0
     width: 261
     height: 947
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -231,8 +231,8 @@ MonoBehaviour:
     y: 0
     width: 347
     height: 947
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -468,9 +468,9 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 523}
-    m_SelectedIDs: 7a2a0000
-    m_LastClickedID: 10874
-    m_ExpandedIDs: 0000000098270000522a0000b82a000000ca9a3bffffff7f
+    m_SelectedIDs: 7c2a0000
+    m_LastClickedID: 10876
+    m_ExpandedIDs: 0000000098270000542a0000ba2a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -498,7 +498,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000098270000522a0000b82a000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000098270000542a0000ba2a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -611,7 +611,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0496f1ffe696f1ffaa98f1ffc498f1ff4a99f1fff499f1ff0a9bf1ffd89bf1ffa69cf1ff509df1ff9a9df1ff209ef1ffca9ef1ff4ca0f1ffd2a0f1ffe8a1f1ff92a2f1ff14a4f1ff2ea4f1ffb4a4f1ff5ea5f1ff2ca6f1ff1ea7f1ffc8a7f1ff04a8f1ff18a8f1ff2ca8f1ff44a8f1ff48a8f1ff70fbffff74fbffff76fbffff78fbffff7afbffff7cfbffff86fbffff8afbffff8cfbffff8efbffff90fbffff92fbffff94fbffff96fbffff00000000562d0000e42d0000002e0000022e0000242e00002a2e000074320000bc330000603500006037000078390000143b0000243e000052400000004100007441000082410000b0420000fa4300009e4600008e490000ec4a00000e4c00004c4e000038500000905100005e530000105500003456000050580000de6b0000ee6b0000046c00003a6c0000946c0000ae6c0000b06c0000c86c0000ce6c0000fe6c0000626d00007e6d0000986d0000ca6d0000e86d0000106e0000306e00006e6e0000a06e0000b86e0000c86e0000f26e0000466f00004c6f0000666f0000706f0000f06f000012700000
+    m_ExpandedIDs: d8bbffffbcbcffff80beffff9abeffff20bfffffcabfffffe0c0ffffe4c0ffffb2c1ffff5cc2ffffa6c2ffff2cc3ffffd6c3ffff58c5ffffdec5fffff4c6ffff9ec7ffff20c9ffff3ac9ffffc0c9ffff6acaffff38cbffff2accffffd4ccffff06cdffff1acdffff2ecdffff42cdffff46cdfffff0e6ffffd2e7ffff9ae9ffffb4e9ffff3aeaffffe4eafffffaebffffc8ecffff96edffff40eeffff8aeeffff10efffffbaefffff3cf1ffffc2f1ffffd8f2ffff82f3ffff04f5ffff1ef5ffffa4f5ffff4ef6ffff1cf7ffff0ef8ffffb8f8fffff4f8ffff08f9ffff1cf9ffff34f9ffff38f9ffff6cfbffff70fbffff74fbffff76fbffff78fbffff7afbffff7cfbffff86fbffff8afbffff8cfbffff8efbffff90fbffff92fbffff94fbffff96fbffff000000008c410000b2410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -644,6 +644,7 @@ MonoBehaviour:
   - No Hype
   - Propaganda
   - Squeezee
+  - Mr Salt-E
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
