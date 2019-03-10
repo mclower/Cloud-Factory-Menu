@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/mattc/Documents/GitRepos/CloudFactoryMenu/Cloud Factory Menu.exe
+C:/Users/Matt/Documents/GitRepos/Cloud-Factory-Menu/Cloud Factory Menu.exe
 SceneListBegin?
 Assets/scenes/Main.unity
 Assets/scenes/House Flavors.unity
