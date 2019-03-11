@@ -12,22 +12,22 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/scenes/Air Factory.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Bad Drip.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Beard Vape Co.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Burst.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Cloudmouth Vapors.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Crisp.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Hemlock.unity
   isLoaded: 0
@@ -45,7 +45,7 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/scenes/Naked 100.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/No Hype.unity
   isLoaded: 0
@@ -63,13 +63,13 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/scenes/Mr Salt-E.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Naked 100 Salts.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Pachamama Salts.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Propaganda Salts.unity
   isLoaded: 0

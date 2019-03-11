@@ -232,7 +232,7 @@ Prefab:
     - target: {fileID: 114939669982456242, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
       propertyPath: m_Text
-      value: Humble Sweater Puppets Ice is a mix of mangoes, canteloupe, and honeydew
+      value: Humble Sweater Puppets Ice is a mix of mangoes, cantaloupe, and honeydew
         melon, topped with menthol.
       objectReference: {fileID: 0}
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
@@ -707,7 +707,7 @@ Prefab:
     - target: {fileID: 114939669982456242, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
       propertyPath: m_Text
-      value: Humble Sweater Puppets is a mix of mangoes, canteloupe, and honeydew
+      value: Humble Sweater Puppets is a mix of mangoes, cantaloupe, and honeydew
         melon.
       objectReference: {fileID: 0}
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
