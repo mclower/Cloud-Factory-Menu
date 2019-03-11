@@ -13,7 +13,7 @@ public class Timeout : MonoBehaviour {
 
     IEnumerator Example()
     {
-        yield return new WaitForSeconds(180);
+        yield return new WaitForSeconds(60);
         loader.LoadScene(0);
     }
 }

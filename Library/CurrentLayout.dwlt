@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -110,7 +110,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 86
+  controlID: 9
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -206,8 +206,8 @@ MonoBehaviour:
     y: 0
     width: 209
     height: 731
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -231,8 +231,8 @@ MonoBehaviour:
     y: 0
     width: 278
     height: 731
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -458,18 +458,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/images/space jam images
+    - Assets/scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/images/space jam images
+  - Assets/scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\mattc\Documents\GitRepos\CloudFactoryMenu
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 583}
-    m_SelectedIDs: f02a0000
-    m_LastClickedID: 10992
+    scrollPos: {x: 0, y: 619}
+    m_SelectedIDs: 24280000
+    m_LastClickedID: 10276
     m_ExpandedIDs: 00000000982700009e2a00000c2b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -525,7 +525,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000122b00008a49000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -611,7 +611,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 1823feff0224feffca25feffce25feff5426feff5826feff5c26feff6026feff2e27feffd827feffdc27feff6228feff0c29feff1029feff9629feffac2afeff562bfeffd82cfefff22cfefff62cfefffa2cfefffe2cfeff022dfeff062dfeff0a2dfeff1e2dfeff322dfeff462dfeff522dfeff64fbffff68fbffff6afbffff6cfbffff70fbffff72fbffff74fbffff76fbffff78fbffff7afbffff7cfbffff80fbffff84fbffff86fbffff88fbffff8afbffff8cfbffff8efbffff90fbffff92fbffff94fbffff96fbffff000000004c2c00005e2c00006e2c0000742c00007a2c00008c2c0000aa2c0000c82c0000de2c0000e82c0000062d00000e2d0000262d0000c22d0000fe2d0000522f0000642f00006a2f00008a2f00000e300000c6300000a8310000583400007c340000fc340000b03500009436000012370000ec370000343800004e380000c0380000703900001c3a0000543b00007c3b0000
+    m_ExpandedIDs: 64fbffff68fbffff6afbffff6cfbffff70fbffff72fbffff74fbffff76fbffff78fbffff7afbffff7cfbffff80fbffff84fbffff86fbffff88fbffff8afbffff8cfbffff8efbffff90fbffff92fbffff94fbffff96fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
