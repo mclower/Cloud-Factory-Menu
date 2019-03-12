@@ -3002,7 +3002,7 @@ Prefab:
     - target: {fileID: 114939669982456242, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
       propertyPath: m_Text
-      value: Burst Melon is a fresh mix of honeydew melon and canteloupe.
+      value: Burst Melon is a fresh mix of honeydew melon and cantaloupe.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
