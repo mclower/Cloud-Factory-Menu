@@ -250,6 +250,17 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 0.999936
       objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
   m_IsPrefabParent: 0
@@ -575,6 +586,17 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 0.999936
       objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
   m_IsPrefabParent: 0
@@ -724,6 +746,17 @@ Prefab:
         type: 2}
       propertyPath: m_LocalScale.z
       value: 0.999936
+      objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
@@ -1062,6 +1095,17 @@ Prefab:
         type: 2}
       propertyPath: m_LocalScale.z
       value: 0.999936
+      objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
@@ -1727,6 +1771,17 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 0.999936
       objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
   m_IsPrefabParent: 0
@@ -2210,6 +2265,17 @@ Prefab:
         type: 2}
       propertyPath: m_Text
       value: Humble Berry Blow Doe is a blueberry and raspberry Blow-Pop.
+      objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
@@ -3541,6 +3607,17 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 0.999936
       objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
   m_IsPrefabParent: 0
@@ -3868,6 +3945,17 @@ Prefab:
         type: 2}
       propertyPath: m_LocalScale.z
       value: 0.999936
+      objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
@@ -4442,6 +4530,17 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 0.999936
       objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
   m_IsPrefabParent: 0
@@ -4901,6 +5000,17 @@ Prefab:
         type: 2}
       propertyPath: m_LocalScale.z
       value: 0.999936
+      objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}

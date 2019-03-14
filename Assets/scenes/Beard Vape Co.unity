@@ -250,6 +250,17 @@ Prefab:
       value: Beard Vape Co. "The One" strawberry is a strawberry glazed donut mixed
         with fruity cereal and milk.
       objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
   m_IsPrefabParent: 0
@@ -830,6 +841,17 @@ Prefab:
       propertyPath: m_Text
       value: Beard Vape Co. "The One" blueberry is a blueberry glazed donut mixed
         with fruity cereal and milk.
+      objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
@@ -1717,6 +1739,17 @@ Prefab:
       value: Beard Vape Co. no. 32 is a sweet carnival-style funnel cake topped with
         sweet cinnamon sugar.
       objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
   m_IsPrefabParent: 0
@@ -2286,6 +2319,17 @@ Prefab:
       value: Beard Vape Co. "The One" lemon is a lemon poundcake topped with whipped
         cream and mixed with milk.
       objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
   m_IsPrefabParent: 0
@@ -2723,6 +2767,17 @@ Prefab:
       value: Beard Vape Co. no. 05 is a decadent New York style cheesecake topped
         with sweet, fresh strawberries.
       objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
   m_IsPrefabParent: 0
@@ -2976,6 +3031,17 @@ Prefab:
         type: 2}
       propertyPath: m_Text
       value: Beard Vape Co. no. 99 is a sweet and tangy lemon raspberry cookie.
+      objectReference: {fileID: 0}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0c5cbc949413f4343bbc580f0318edbc,
+        type: 3}
+    - target: {fileID: 114966478556661930, guid: 75093b16ba4df144fbdb091687953533,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 75093b16ba4df144fbdb091687953533, type: 2}
