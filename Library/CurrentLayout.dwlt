@@ -231,8 +231,8 @@ MonoBehaviour:
     y: 0
     width: 334
     height: 731
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -470,7 +470,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 60}
     m_SelectedIDs: d6280000
     m_LastClickedID: 10454
-    m_ExpandedIDs: 00000000982700007a2a000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000982700007e2a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -498,7 +498,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000098270000
+    m_ExpandedIDs: 00000000982700007e2a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -525,7 +525,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000122b00008a4900005e28000000000000222d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -611,7 +611,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 90c9feff6acafeff32ccfeffb8cdfeff3ecefeffe8cefefffecffeffccd0feff9ad1feff44d2feffced4feff54d5fefffed5feff80d7feff06d8feff1cd9feffc6d9feff48dbfeff62dbfeffe8dbfeff92dcfeff60ddfeff52defeff56defeff88defeff9cdefeffb0defeffb4e6feffc0e6feff42e3ffffaeeaffff90fbffff96fbffff00000000fe2c00002a2d0000
+    m_ExpandedIDs: 1ac7fffff4c7ffffbcc9ffff42cbffffc8cbffff72ccffff88cdffff56ceffff24cfffffcecfffff58d2ffffded2ffff88d3ffff0ad5ffff90d5ffffa6d6ffff50d7ffffd2d8ffffecd8ffff72d9ffff1cdaffffeadaffffdcdbffffe0dbffff12dcffff26dcffff3adcffff3ee4ffff4ae4ffff8cfbffff90fbffff96fbffff00000000662c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -632,6 +632,7 @@ MonoBehaviour:
   m_ExpandedScenes:
   - Main
   - Nicotine Salts
+  - Bad Drip
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
