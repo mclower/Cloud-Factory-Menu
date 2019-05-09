@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-E:/Cloud Factory Menu.exe
+F:/Cloud Factory Menu.exe
 SceneListBegin?
 Assets/scenes/Main.unity
 Assets/scenes/House Flavors.unity
@@ -29,6 +29,7 @@ Assets/scenes/Pachamama Salts.unity
 Assets/scenes/Propaganda Salts.unity
 Assets/scenes/Solace Salts.unity
 Assets/scenes/Yogi Salts.unity
+Assets/scenes/Fresh Pressed Salts.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 4b12dd839b2293f8457cd67cc3610b85 UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
