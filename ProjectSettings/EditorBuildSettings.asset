@@ -89,3 +89,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scenes/Fresh Pressed Salts.unity
     guid: 4378fe929f810be4d9527ea603da2f72
+  - enabled: 1
+    path: Assets/scenes/I Love Salts.unity
+    guid: 7aff144f1afa9eb4999312eea03bf93c

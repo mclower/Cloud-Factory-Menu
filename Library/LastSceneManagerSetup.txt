@@ -81,5 +81,8 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/scenes/Fresh Pressed Salts.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/scenes/I Love Salts.unity
   isLoaded: 1
   isActive: 1
