@@ -92,3 +92,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/scenes/I Love Salts.unity
     guid: 7aff144f1afa9eb4999312eea03bf93c
+  - enabled: 1
+    path: Assets/scenes/Holy Cannoli.unity
+    guid: 50a1c355705374d499df5e3285a67fbc
