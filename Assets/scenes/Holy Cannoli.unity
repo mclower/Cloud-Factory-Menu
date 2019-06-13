@@ -158,7 +158,7 @@ Prefab:
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
       propertyPath: m_RootOrder
-      value: 23
+      value: 21
       objectReference: {fileID: 0}
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
@@ -320,7 +320,7 @@ Prefab:
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
       propertyPath: m_RootOrder
-      value: 22
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
@@ -1044,7 +1044,7 @@ Prefab:
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
       propertyPath: m_RootOrder
-      value: 21
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
@@ -2439,7 +2439,7 @@ Prefab:
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
       propertyPath: m_RootOrder
-      value: 25
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
@@ -3322,7 +3322,7 @@ Prefab:
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
       propertyPath: m_RootOrder
-      value: 24
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
@@ -3544,8 +3544,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000061035, y: 376.85}
-  m_SizeDelta: {x: 429.65, y: 326.3}
+  m_AnchoredPosition: {x: 0, y: 387}
+  m_SizeDelta: {x: 521.2, y: 428.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1925351821
 MonoBehaviour:
@@ -3625,7 +3625,7 @@ Prefab:
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
       propertyPath: m_RootOrder
-      value: 20
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 2}
