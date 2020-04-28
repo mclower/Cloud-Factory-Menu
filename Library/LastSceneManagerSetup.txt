@@ -3,11 +3,11 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/scenes/Premium Juice Brands.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Nicotine Salts.unity
-  isLoaded: 0
-  isActive: 0
+  isLoaded: 1
+  isActive: 1
 - path: Assets/scenes/360 Twist.unity
   isLoaded: 0
   isActive: 0
@@ -66,5 +66,5 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/scenes/Vapetasia Salts.unity
-  isLoaded: 1
-  isActive: 1
+  isLoaded: 0
+  isActive: 0
