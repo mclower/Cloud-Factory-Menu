@@ -220,7 +220,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 63852f4018107cc4b924b55937a797e9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e856bb004cc5c4a499d6080de69ba7a8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -406,7 +406,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6891166707b393d4fb2cafdab698e358, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9fa5c22b766a0554f83a86942d8cf691, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -695,7 +695,7 @@ PrefabInstance:
     - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
-      value: 24
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 3}
@@ -1669,7 +1669,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 984ad6ce5d8109d4d90563e31c2f19c6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 66623423e4055cc479369bce8de080ed, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1931,7 +1931,7 @@ PrefabInstance:
     - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
-      value: 24
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 3}
@@ -2160,7 +2160,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 45eeeaa804b83b245824de5232356c33, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 163efabb25c262e4bbf591024285e5e4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2327,7 +2327,7 @@ PrefabInstance:
     - target: {fileID: 114990547530203208, guid: 75093b16ba4df144fbdb091687953533,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
-      value: 24
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 224779066716105394, guid: 75093b16ba4df144fbdb091687953533,
         type: 3}

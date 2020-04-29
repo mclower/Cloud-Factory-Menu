@@ -66,9 +66,6 @@ EditorBuildSettings:
     path: Assets/scenes/Naked 100 Salts.unity
     guid: e7848d6edcaef9e4e858416050316cce
   - enabled: 1
-    path: Assets/scenes/Pachamama Salts.unity
-    guid: be23bd5f436dbd947b86e3c6d066a5d0
-  - enabled: 1
     path: Assets/scenes/Propaganda Salts.unity
     guid: 0723bc164eb65f644a5821f7f242d0d7
   - enabled: 1

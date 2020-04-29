@@ -1,7 +1,7 @@
 sceneSetups:
 - path: Assets/scenes/Main.unity
-  isLoaded: 1
-  isActive: 1
+  isLoaded: 0
+  isActive: 0
 - path: Assets/scenes/Premium Juice Brands.unity
   isLoaded: 0
   isActive: 0
@@ -36,22 +36,22 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/scenes/One Hit Wonder.unity
-  isLoaded: 0
-  isActive: 0
+  isLoaded: 1
+  isActive: 1
 - path: Assets/scenes/Sad Boy.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Vapetasia.unity
   isLoaded: 0
   isActive: 0
 - path: Assets/scenes/Air Factory Salts.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Baton Salts.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Coastal Clouds Salts.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/I Love Salts.unity
   isLoaded: 0
@@ -60,7 +60,7 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/scenes/Propaganda Salts.unity
-  isLoaded: 0
+  isLoaded: 1
   isActive: 0
 - path: Assets/scenes/Solace Salts.unity
   isLoaded: 0
