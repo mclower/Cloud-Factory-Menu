@@ -333,7 +333,7 @@ RectTransform:
   m_LocalScale: {x: 1.00008, y: 1.00008, z: 1.00008}
   m_Children: []
   m_Father: {fileID: 1481612291}
-  m_RootOrder: 5
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2040,7 +2040,7 @@ RectTransform:
   m_LocalScale: {x: 0.75, y: 0.75, z: 0.75}
   m_Children: []
   m_Father: {fileID: 1481612291}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2252,7 +2252,7 @@ PrefabInstance:
     - target: {fileID: 224656396940398524, guid: f9811efba85268743b3e8b7c21bd916f,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 224656396940398524, guid: f9811efba85268743b3e8b7c21bd916f,
         type: 3}
@@ -3472,7 +3472,7 @@ PrefabInstance:
     - target: {fileID: 114375267795243330, guid: 868b0d9a9ff54214383929aca7150206,
         type: 3}
       propertyPath: m_Text
-      value: 'Price: $19.95'
+      value: 'Price: $16.95'
       objectReference: {fileID: 0}
     - target: {fileID: 224358123800420768, guid: 868b0d9a9ff54214383929aca7150206,
         type: 3}
@@ -3512,7 +3512,7 @@ PrefabInstance:
     - target: {fileID: 224358123800420768, guid: 868b0d9a9ff54214383929aca7150206,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 224358123800420768, guid: 868b0d9a9ff54214383929aca7150206,
         type: 3}
@@ -4644,10 +4644,10 @@ RectTransform:
   m_Children:
   - {fileID: 1377478580}
   - {fileID: 668729146}
+  - {fileID: 66482450}
   - {fileID: 640976871}
   - {fileID: 1119826671}
   - {fileID: 717995386}
-  - {fileID: 66482450}
   - {fileID: 559262064}
   - {fileID: 978086929}
   - {fileID: 1512429868}
