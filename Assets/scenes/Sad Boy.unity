@@ -1917,8 +1917,23 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 4c4ff7d223e4f8240926eeed8e2da6ce,
+      objectReference: {fileID: 21300000, guid: 83db08e22681fb940a2136af9d9bbe28,
         type: 3}
+    - target: {fileID: 114973891203275958, guid: 222c9ef95e67a674c8f66edc94f5ad61,
+        type: 3}
+      propertyPath: m_PreserveAspect
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114973891203275958, guid: 222c9ef95e67a674c8f66edc94f5ad61,
+        type: 3}
+      propertyPath: m_UseSpriteMesh
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114973891203275958, guid: 222c9ef95e67a674c8f66edc94f5ad61,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 224952281226057996, guid: 222c9ef95e67a674c8f66edc94f5ad61,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1977,12 +1992,12 @@ PrefabInstance:
     - target: {fileID: 224952281226057996, guid: 222c9ef95e67a674c8f66edc94f5ad61,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -516
+      value: 515.9998
       objectReference: {fileID: 0}
     - target: {fileID: 224952281226057996, guid: 222c9ef95e67a674c8f66edc94f5ad61,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 72.70001
+      value: 72.69998
       objectReference: {fileID: 0}
     - target: {fileID: 224952281226057996, guid: 222c9ef95e67a674c8f66edc94f5ad61,
         type: 3}
@@ -3439,7 +3454,7 @@ PrefabInstance:
     - target: {fileID: 224952281226057996, guid: 222c9ef95e67a674c8f66edc94f5ad61,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 515.99994
+      value: -516.0002
       objectReference: {fileID: 0}
     - target: {fileID: 224952281226057996, guid: 222c9ef95e67a674c8f66edc94f5ad61,
         type: 3}
